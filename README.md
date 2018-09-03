@@ -1,5 +1,6 @@
 # ENGR180 Spatial Analysis and Modeling
-Professor: Joshua Viers
+Professor: Joshua Viers 
+
 Completed: Fall 2017
 # Material
 I have completed the required coursework. 
